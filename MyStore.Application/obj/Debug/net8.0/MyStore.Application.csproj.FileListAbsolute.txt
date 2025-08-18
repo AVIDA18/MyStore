@@ -1,0 +1,15 @@
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/bin/Debug/net8.0/MyStore.Application.deps.json
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/bin/Debug/net8.0/MyStore.Application.dll
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/bin/Debug/net8.0/MyStore.Application.pdb
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.AssemblyInfoInputs.cache
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.AssemblyInfo.cs
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.csproj.CoreCompileInputs.cache
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.dll
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/refint/MyStore.Application.dll
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.pdb
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/ref/MyStore.Application.dll
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/bin/Debug/net8.0/MyStore.Core.dll
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/bin/Debug/net8.0/MyStore.Core.pdb
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.csproj.AssemblyReference.cache
+/home/avida/Desktop/B2P/MyStore/MyStore.Application/obj/Debug/net8.0/MyStore.Application.csproj.CopyComplete
