@@ -10,7 +10,7 @@ namespace MyStore.Core.Entities
         public ICollection<Order> Orders { get; set; } = new List<Order>();
 
         //Many to many with Roles
-        public ICollection<Role> Roles { get; set; } = new List<Role>();
+        public ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
 
         //one to one or one to many with cart
         public ICollection<Cart> Carts{ get; set; } = new List<Cart>();

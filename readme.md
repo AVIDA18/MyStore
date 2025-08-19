@@ -41,7 +41,7 @@ and database connection string is also included in Api-->Program.cs
 ON MyStore.Api. This has design-time services EF Core needs to generate and apply migrations, build models, and read configuration from the app.
 
 ##Now this is run: dotnet ef migrations add InitialCreate -s ./MyStore.Api -p MyStore.Infrastructure
-what does actually does is takes the dbcontext from -p MyStore.Infrastructure and then starts building the Api from MyStore.Api.
+what does actually does is takes the dbcontext from -p MyStore.Infrastructure and then starts building the Api from MyStore.Api. Not every collaborator needs to do this. When changes in entities or data is made then only this needs to be done.
 
 ##Now run this: dotnet ef database update -s ./MyStore.Api -p MyStore.Infrastructure 
-This will create a schema and stores it in MyStore.Infrastructure-->migrations in a timestamp and context models. It will also create tables and data on the server on the basis of the Entities data.
+This will create a schema and stores it in MyStore.Infrastructure-->migrations in a timestamp and context models. It will also create tables and data on the server on the basis of the Entities data. Every collaborator needs to do this after a pull to reflect the database changes that another collaborator has made.

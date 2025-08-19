@@ -9,6 +9,6 @@ namespace MyStore.Core.Entities
         public User User { get; set; }
 
         //Many to many with Product
-        public ICollection<Product> Products{ get; set; } = new List<Product>();
+        public ICollection<CartItem> CartItems{ get; set; } = new List<CartItem>();
     }
 }

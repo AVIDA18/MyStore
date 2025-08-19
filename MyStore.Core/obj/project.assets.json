@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/avida/.nuget/packages/": {}
+    "C:\\Users\\LuZa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/avida/Desktop/B2P/MyStore/MyStore.Core/MyStore.Core.csproj",
+      "projectUniqueName": "D:\\Avida_Git\\MyStore\\MyStore.Core\\MyStore.Core.csproj",
       "projectName": "MyStore.Core",
-      "projectPath": "/home/avida/Desktop/B2P/MyStore/MyStore.Core/MyStore.Core.csproj",
-      "packagesPath": "/home/avida/.nuget/packages/",
-      "outputPath": "/home/avida/Desktop/B2P/MyStore/MyStore.Core/obj/",
+      "projectPath": "D:\\Avida_Git\\MyStore\\MyStore.Core\\MyStore.Core.csproj",
+      "packagesPath": "C:\\Users\\LuZa\\.nuget\\packages\\",
+      "outputPath": "D:\\Avida_Git\\MyStore\\MyStore.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/avida/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\LuZa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -59,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,7 +7,7 @@ namespace MyStore.Core.Entities
         public decimal Price { get; set; }
 
         //Many to many connection with order and cart
-        public ICollection<Order> Orders { get; set; } = new List<Order>();
-        public ICollection<Cart> Carts { get; set; } = new List<Cart>();
+        public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
+        public ICollection<CartItem> CartItems { get; set; } = new List<CartItem>();
     }
 }

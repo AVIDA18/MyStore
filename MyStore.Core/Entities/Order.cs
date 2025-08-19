@@ -9,7 +9,7 @@ namespace MyStore.Core.Entities
         public User User { get; set; }
 
         //Many to many with product
-        public ICollection<Product> Products { get; set; } = new List<Product>();
+        public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     }

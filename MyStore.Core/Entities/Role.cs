@@ -6,6 +6,6 @@ namespace MyStore.Core.Entities
         public string Name { get; set; } = string.Empty;
 
         //Many to many with users
-        public ICollection<User> Users { get; set; } = new List<User>();
+        public ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
     }
 }
