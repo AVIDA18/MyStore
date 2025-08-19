@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"eiwUo0xCNPBoznsEn71ctBS+AbDw+t9ODGXbs5JpSNA=","Source":"MyStore.Api","BasePath":"_content/MyStore.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "z3EcKOb3i4UlcSWBD/b97xwpPZ8faflgOf+I9McTuCU=",
+  "Source": "MyStore.Api",
+  "BasePath": "_content/MyStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

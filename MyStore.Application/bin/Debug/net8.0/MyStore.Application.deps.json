@@ -16,10 +16,7 @@
       },
       "MyStore.Core/1.0.0": {
         "runtime": {
-          "MyStore.Core.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MyStore.Core.dll": {}
         }
       }
     }
